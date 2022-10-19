@@ -1,0 +1,1 @@
+{"Versao":10,"Arquivos":["ConversorZPL.exe"]}
